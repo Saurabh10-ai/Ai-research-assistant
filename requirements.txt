@@ -1,0 +1,20 @@
+﻿# LangChain and LCEL
+langchain
+langchain-core
+langchain-community
+langchain-openai
+# AI/ML API
+openai
+# Hugging Face
+langchain-huggingface
+huggingface-hub
+# Research tools
+tavily-python
+beautifulsoup4
+requests
+# Streamlit UI
+streamlit
+# Environment variables and validation
+python-dotenv
+pydantic
+json5
